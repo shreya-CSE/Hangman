@@ -36,6 +36,10 @@ After each play session, the program displays a session score:
 
 Here, `X` represents the number of games won, and `Y` represents the total games played in that session.
 
+## Game Structure
+The game presents a hangman structure with each incorrect guess.
+Visual feedback includes used letters, remaining guesses, and the partially revealed word.
+
 ### 4. Level Files
 
 - **Easy Level (easy.txt):** Simple words suitable for beginners.
